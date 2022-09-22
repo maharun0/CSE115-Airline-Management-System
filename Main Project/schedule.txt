@@ -1,0 +1,38 @@
+
+
+
+
+
+
+
+
+
+
+
+                                                                        *** Airline Flight Schedule ***
+                                                                        
+                                                -------------------------------------------------------------------------------
+
+                                                                The following flights will be boarding today.
+            
+                                                -------------------------------------------------------------------------------
+
+                                                Flight No.          Flight Name        Departure       Destination      Seats Left
+
+                                                
+                                                1.                  ICPC1              Canada          South Korea      21
+
+                                                2.                  ICPC2              China           India            32
+
+                                                3.                  ICPC3              USA             Russia           27
+
+                                                4.                  ICPC4              Bangladesh      Itali            16
+
+                                                5.                  ICPC5              Nepal           Bangladesh       13
+
+                                                -------------------------------------------------------------------------------
+
+                                                Press any key to continue...
+
+
+
